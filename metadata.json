@@ -1,0 +1,6 @@
+{
+  "name": "Burger District",
+  "description": "Birinci şahıs 3D modern burger restoranı işletme simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
